@@ -1,10 +1,10 @@
 # Templates for vulcain code generation
 
-usage in the root project directory.
+Run command at the root project directory.
 
 
 ```js
-vulcain create --template microServiceProxy --uri <service address>
+vulcain generate --template microServiceProxy --uri <service address>
 ```
 
 | template | Description |
